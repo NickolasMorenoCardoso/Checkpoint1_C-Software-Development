@@ -12,3 +12,4 @@ C:\Users\labsfiap\CaculadoraApp\obj\Debug\net9.0\refint\CaculadoraApp.dll
 C:\Users\labsfiap\CaculadoraApp\obj\Debug\net9.0\CaculadoraApp.pdb
 C:\Users\labsfiap\CaculadoraApp\obj\Debug\net9.0\CaculadoraApp.genruntimeconfig.cache
 C:\Users\labsfiap\CaculadoraApp\obj\Debug\net9.0\ref\CaculadoraApp.dll
+C:\Users\labsfiap\CaculadoraApp\obj\Debug\net9.0\CaculadoraApp.sourcelink.json
